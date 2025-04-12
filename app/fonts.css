@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'GaMaamli';
+    src: url('../public/fonts/GaMaamli-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Stylish';
+    src: url('../public/fonts/Stylish.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
